@@ -86,7 +86,7 @@ CodeNexusHub valorise la diversité de ses membres. Nous nous engageons à offri
 
 <br clear="both">
 
-**4. Collaboration and Partage**
+**4. Collaboration et Partage**
 
 Encouragez la collaboration et le partage de connaissances au sein de la communauté. Soyez ouvert à l'idée que nous apprenons tous les uns des autres, et que la diversité des perspectives est une force.
 
