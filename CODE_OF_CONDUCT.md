@@ -18,7 +18,7 @@ All members of CodeNexusHub should be treated with respect, dignity, and kindnes
 
 <br clear="both">
 
-**2. No form of harassment is tolerated.
+**2. No form of harassment is tolerated.**
 
 All forms of harassment, including sexual harassment, discriminatory harassment, and any form of harmful behavior, will not be tolerated. Be mindful of the needs of others and ensure that your communication is positive and respectful.
 
