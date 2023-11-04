@@ -18,9 +18,9 @@ All members of CodeNexusHub should be treated with respect, dignity, and kindnes
 
 <br clear="both">
 
-**2. No Harassment**
+**2. No form of harassment is tolerated.
 
-Harassment in all its forms, including sexual harassment, discriminatory harassment, and any form of harmful behavior, will not be tolerated. Be attentive to the needs of others and ensure that your communication is positive and respectful.
+All forms of harassment, including sexual harassment, discriminatory harassment, and any form of harmful behavior, will not be tolerated. Be mindful of the needs of others and ensure that your communication is positive and respectful.
 
 <br clear="both">
 
@@ -74,9 +74,9 @@ Tous les membres de CodeNexusHub doivent être traités avec respect, dignité e
 
 <br clear="both">
 
-**2. Pas de Harcèlement**
+**2. Aucune forme de harcèlement n'est tolérée**
 
-Le harcèlement sous toutes ses formes, y compris le harcèlement sexuel, le harcèlement discriminatoire et toute forme de comportement nuisible, ne sera pas toléré. Soyez attentif aux besoins des autres et assurez-vous que votre communication est positive et respectueuse.
+Toutes formes de harcèlement, y compris le harcèlement sexuel, le harcèlement discriminatoire et tout comportement nuisible, ne seront pas tolérées. Soyez attentif aux besoins des autres et assurez-vous que votre communication est positive et respectueuse.
 
 <br clear="both">
 
