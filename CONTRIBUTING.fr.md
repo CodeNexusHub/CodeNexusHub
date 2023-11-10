@@ -92,18 +92,20 @@ Bienvenue dans la communauté CodeNexusHub ! Nous sommes ravis que vous souhaiti
     ```
 
 6. Ouvrez une pull request de votre fork vers la branche `master` ou `main` du dépôt principal.
-![Alt text](image.png)
-![Alt text](image-1.png)
-![Alt text](image-2.png)
-![Alt text](image-3.png)
-![Alt text](image-4.png)
-![Alt text](image-5.png)
-![Alt text](image-6.png)
-![Alt text](image-7.png)
-![Alt text](image-8.png)
+
+   ![image](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/c4fa1af3-c8d4-41c6-a9ca-ea4c484f6bdc)
+   ![image-1](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/0a32a38c-0f61-42dd-9a06-f6735ef322de)
+   ![image-2](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/617563c8-c05e-4cb5-ac0f-1bcff4e94d61)
+   ![image-3](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/4ced2957-8e1a-4779-991c-5d65117936a5)
+   ![image-4](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/8114bcd1-fb5b-4b22-ba49-7d43da147b9f)
+   ![image-5](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/c45761b9-2136-4ed5-b150-402776907cbf)
+   ![image-6](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/c1163194-966e-4f3d-bc7b-9af7adb93bba)
+   ![image-7](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/88ddf6f0-6154-4bbd-b429-7436b00103cb)
+   ![image-8](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/9fa93ebe-c341-4190-b03f-6cd3eb50ee2b)
 
 ## Félicitations Vous allez faitt!
-![Alt text](image-9.png)
+![image-9](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/41649f42-f476-416f-8ca1-585fc702e76e)
+
 
 7. Attendez que votre pull request soit examinée et fusionnée.
    
