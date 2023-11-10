@@ -6,7 +6,6 @@ Welcome to the CodeNexusHub community! We're thrilled that you want to contribut
 
 
 - [CodeNexusHub Contribution Guide](#codenexushub-contribution-guide)
-- [\[ENGLISH\]](#english)
   - [Contribution Process](#contribution-process)
   - [How to Contribute](#how-to-contribute)
   - [Bug Reports](#bug-reports)
@@ -14,9 +13,7 @@ Welcome to the CodeNexusHub community! We're thrilled that you want to contribut
   - [Code Style](#code-style)
   - [License](#license)
   - [Show Your Support](#show-your-support)
- 
 
-# [ENGLISH]
 
 ## Contribution Process
 
@@ -94,6 +91,20 @@ Welcome to the CodeNexusHub community! We're thrilled that you want to contribut
     ```
 
 4. Open a pull request from your fork to the main repository's `master`  or `main` branch.
+   ![image](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/c4fa1af3-c8d4-41c6-a9ca-ea4c484f6bdc)
+   ![image-1](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/0a32a38c-0f61-42dd-9a06-f6735ef322de)
+   ![image-2](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/617563c8-c05e-4cb5-ac0f-1bcff4e94d61)
+   ![image-3](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/4ced2957-8e1a-4779-991c-5d65117936a5)
+   ![image-4](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/8114bcd1-fb5b-4b22-ba49-7d43da147b9f)
+   ![image-5](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/c45761b9-2136-4ed5-b150-402776907cbf)
+   ![image-6](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/c1163194-966e-4f3d-bc7b-9af7adb93bba)
+   ![image-7](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/88ddf6f0-6154-4bbd-b429-7436b00103cb)
+   ![image-8](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/9fa93ebe-c341-4190-b03f-6cd3eb50ee2b)
+
+## Congratulations You've done it!
+
+![image-9](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/0e670053-7200-4c7f-94f9-3a4c391b47e8)
+
    
 ## Bug Reports
 
