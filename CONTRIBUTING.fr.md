@@ -103,7 +103,7 @@ Bienvenue dans la communauté CodeNexusHub ! Nous sommes ravis que vous souhaiti
    ![image-7](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/88ddf6f0-6154-4bbd-b429-7436b00103cb)
    ![image-8](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/9fa93ebe-c341-4190-b03f-6cd3eb50ee2b)
 
-## Félicitations Vous allez faitt!
+## Félicitations Vous l'avez faitt!
 ![image-9](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/41649f42-f476-416f-8ca1-585fc702e76e)
 
 
