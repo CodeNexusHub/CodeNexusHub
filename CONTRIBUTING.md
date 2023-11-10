@@ -10,6 +10,14 @@ Welcome to the CodeNexusHub community! We're thrilled that you want to contribut
 - [\[ENGLISH\]](#english)
   - [Contribution Process](#contribution-process)
   - [How to Contribute](#how-to-contribute)
+  - [Bug Reports](#bug-reports)
+  - [Feature Requests](#feature-requests)
+  - [Code Style](#code-style)
+  - [License](#license)
+  - [Show Your Support](#show-your-support)
+- [\[FRENCH\]](#french)
+  - [Processus de contribution](#processus-de-contribution)
+  - [Comment contribuer](#comment-contribuer)
   - [Rapports de bugs](#rapports-de-bugs)
   - [Demandes de fonctionnalités](#demandes-de-fonctionnalités)
   - [Style de code](#style-de-code)
@@ -163,11 +171,14 @@ If you find this project helpful or interesting, please consider giving it a sta
 ![image-6](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/40f635d9-45d4-4df9-ba65-7dd22a9cefe8)
 ![image-7](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/a581f185-ef0b-4140-a59b-79cdf8c4c350)
 
-   ```bash
+    ```bash
    git clone https://github.com/VotreUsername/CodeNexusHub.git
-   ```
+
+    ```
+
     exemple: si votre nom d'utilisateur est "WassCodeur" alors la commande sera:
-   ```bash
+
+    ```bash
     git clone https://github.com/WassCodeur/CodeNexusHub.git
     ```
 3. Créez une nouvelle branche :
