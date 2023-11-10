@@ -41,24 +41,26 @@ Welcome to the CodeNexusHub community! We're thrilled that you want to contribut
 
 1. Start by forking the project.
    
-![Alt text](image.png)
+![image](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/afc5328a-9593-42a4-8f69-03c1ae760524)
 
-![Alt text](image-1.png)
 
-![Fork](image-2.png)
+![image-1](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/10dd2f86-3c27-480a-8250-192952cf417b)
 
-![Create Fork](image-3.png)
+
+![image-2](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/7bfcbd9e-d8f4-48b4-ba6b-dd59008c83dc)
+
+
+![image-3](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/4523a100-3c07-4b15-91ca-7f6ca9bc2ab3)
+
 
 2. Clone your fork locally:
    
-      
-   ![Alt text](image-4.png)
+![image-4](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/407abb57-0674-4689-9232-9eb12113a1c7)
 
-   ![Alt text](image-5.png)
+![image-5](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/d04b153b-098b-4e4f-8a7d-4044412fd4e5)
 
-   ![Alt text](image-6.png)
-
-   ![CLiquez ici](image-7.png)
+![image-6](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/40f635d9-45d4-4df9-ba65-7dd22a9cefe8)
+![image-7](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/a581f185-ef0b-4140-a59b-79cdf8c4c350)
 
 ```bash
    git clone https://github.com/YourUsername/CodeNexusHub.git
@@ -140,23 +142,27 @@ If you find this project helpful or interesting, please consider giving it a sta
 
 1. Commencez par forker le projet.
    
-![Alt text](image.png)
+![image](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/afc5328a-9593-42a4-8f69-03c1ae760524)
 
-![Alt text](image-1.png)
 
-![Fork](image-2.png)
+![image-1](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/10dd2f86-3c27-480a-8250-192952cf417b)
 
-![Create Fork](image-3.png)
+
+![image-2](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/7bfcbd9e-d8f4-48b4-ba6b-dd59008c83dc)
+
+
+![image-3](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/4523a100-3c07-4b15-91ca-7f6ca9bc2ab3)
+
 
 2. Clonez votre fork localement :
    
-   ![Alt text](image-4.png)
+![image-4](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/407abb57-0674-4689-9232-9eb12113a1c7)
 
-   ![Alt text](image-5.png)
+![image-5](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/d04b153b-098b-4e4f-8a7d-4044412fd4e5)
 
-   ![Alt text](image-6.png)
+![image-6](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/40f635d9-45d4-4df9-ba65-7dd22a9cefe8)
+![image-7](https://github.com/WassCodeur/CodeNexusHub/assets/100234404/a581f185-ef0b-4140-a59b-79cdf8c4c350)
 
-   ![CLiquez ici](image-7.png)
    ```bash
    git clone https://github.com/VotreUsername/CodeNexusHub.git
    ```
