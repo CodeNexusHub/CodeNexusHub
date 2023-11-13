@@ -1,5 +1,5 @@
 # CodeNexusHub Ideas
-[English](ideas/README.md) | [Français](/README.fr.md)
+[English](ideas/README.md) | [Français](ideas/README.fr.md)
 ## Suggest Ideas
 
 ## We actively encourage contributors to share their ideas for improving CodeNexusHub. If you have an idea for a new feature, an existing enhancement, or any other suggestion, follow these steps:
